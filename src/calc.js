@@ -1,6 +1,6 @@
 /**
  * src/calc.js
- * DfT Travel Carbon Calculatorrr
+ * DfT Travel Carbon Calculatoor
  *
  * This file contains the emissions calculation logic and a small embedded subset
  * of the UK Government GHG Conversion Factors (2025) needed for this MVP.
