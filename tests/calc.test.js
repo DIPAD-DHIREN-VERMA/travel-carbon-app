@@ -2,7 +2,7 @@
  * tests/calc.test.js
  *
  * Jest tests for the carbon calculator logic (src/calc.js).
- * These tests cover the main business rules:
+ * These tests cover the main business rulesss:
  * - Car factors are per vehicle-km (total is for the vehicle; per-person divides by passengers)
  * - Bus/rail/taxi are per passenger-km (per-person = factor * distance; total multiplies by passengers)
  * - Miles convert to kilometres
